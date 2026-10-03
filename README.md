@@ -54,6 +54,3 @@ Built with **PHP + MySQL** on the backend and plain **HTML / CSS / JavaScript** 
 
 ---
 
-## 👨‍💻 Author
-
-**Sai Samhith Reddy**: [@iamsaisamhithreddy](https://github.com/iamsaisamhithreddy)
